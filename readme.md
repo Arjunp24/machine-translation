@@ -7,4 +7,5 @@ Implemented 5 different architectures: <br>
 3) Bidirectional-GRU <br>
 4) Vanilla GRU <br>
 5) Encoder-Decoder with LSTM <br>
-(List is presented in decreasing order of validation accuracy)
+(List is presented in decreasing order of validation accuracy) <br><br>
+*[Project](https://github.com/udacity/aind2-nlp-capstone) done as part of Udacity Natural Language Processing Nanodegree Program*
